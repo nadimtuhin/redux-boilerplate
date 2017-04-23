@@ -1,5 +1,5 @@
 # redux-boilerplate
-redux boilerplate; batteries includes!!
+redux boilerplate; batteries included!!
 
 ## Todo
 - [x] add batteries
